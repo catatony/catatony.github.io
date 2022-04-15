@@ -1,0 +1,63 @@
+html {
+	background-image: url(6a00d834515c5469e2026bdec6c96e200c.png);
+ 	background-repeat: no-repeat;
+ 	background-position: center center;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	background-size: cover;
+  	background-size: cover;
+  	background-size: cover;
+
+
+}
+
+body {
+	background: rgba(0, 0, 0, 0.7);
+	padding: 40px;
+	margin: 25%; 
+	margin-top: 5%; 
+	text-align: justify;
+}
+
+p, blockquote {color: white;
+}
+
+ol, ul, a {color: white;
+}
+
+h1,h2,h3 {
+	color: white;
+	font-family: "Verdana";
+	margin-top: 40px; 
+	margin-bottom: 10px;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+table, th, td {
+	color: white; 
+	border: 2px solid white; 
+	border-collapse: collapse;
+}
+
+figcaption {
+	color: white;
+	font-style: italic;
+	margin-top: 0px; 
+	margin-bottom: 40px;
+}
+
+figure {
+	float: right;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin: 20px 20px 10px 50px
+}
+
+figcaption{
+	float: bottom;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
